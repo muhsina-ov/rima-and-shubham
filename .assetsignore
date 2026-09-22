@@ -1,0 +1,9 @@
+# Files in the assets directory (.) that must NOT be uploaded as public site assets.
+# Same format as .gitignore. See https://developers.cloudflare.com/workers/static-assets/binding/#ignoring-assets
+.git/**
+*.ORIGINAL
+*.tmp
+**/*.tmp
+.DS_Store
+node_modules/**
+.wrangler/**
