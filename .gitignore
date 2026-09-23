@@ -1,0 +1,5 @@
+*.ORIGINAL
+*.tmp
+**/*.tmp
+.DS_Store
+.wrangler/**
